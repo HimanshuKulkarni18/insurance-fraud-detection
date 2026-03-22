@@ -1,0 +1,10 @@
+data/raw/*.csv
+artifacts/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+*.egg-info/
+.DS_Store
+.streamlit/secrets.toml
