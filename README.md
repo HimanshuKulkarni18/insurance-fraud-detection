@@ -1,5 +1,10 @@
 # Insurance claim fraud detection
 
+
+
+
+
+
 Python prototype for **binary fraud risk** on insurance claims: synthetic data, **scikit-learn** pipeline (gradient boosting + optional calibration), **CLI** batch scoring, **FastAPI** JSON API, and a **Streamlit** web UI.
 
 ![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)
